@@ -341,7 +341,8 @@ header {
 .project{
     border-radius: 14px;
     text-align: center;
-    width: 350px;
+    width: 400px;
+    max-width: 90vw;
     background-color: var(--my-purple);
     overflow: hidden;
     color: #fff;
