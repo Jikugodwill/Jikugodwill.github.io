@@ -429,13 +429,13 @@ header {
 }
 
 .testimonial h3{
-    font-size: 2.2rem;
-    font-weight: 700;
+    font-size: 2.1rem;
+    font-weight: 900;
     color: var(--my-green);
 }
 
 .testimonial h4{
-    font-size: 1.2rem;
+    font-size: 1.1rem;
     font-style: italic;
     font-weight: 600;
     margin-bottom: 1rem;
@@ -452,10 +452,10 @@ header {
 }
 
 .testimonial p{
-    font-size: 1.2rem;
+    font-size: 1.1rem;
     font-weight: 400;
     margin-bottom: 1rem;
-    width: 80%;
+    width: 95%;
 }
 
 @media (max-width: 810px){
