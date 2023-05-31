@@ -409,7 +409,7 @@ header {
     flex-flow: column nowrap;
     justify-content: center;
     width: 400px;
-    max-width: 90vw;
+    max-width: 98vw;
     height: fit-content;
     align-content: center;
     background-color: var(--my-purple);
