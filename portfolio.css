@@ -374,6 +374,24 @@ header {
     margin: 1rem 0;
 }
 
+.pjstack{
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+    margin: 1rem 0;
+}
+
+.stack-list{
+    font-size: 1.1rem;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+}
+
 
 .pj-btns{
     display: flex;

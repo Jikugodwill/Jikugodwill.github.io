@@ -39,7 +39,7 @@ const switchPage = (newPage) => {
 
 document.addEventListener("DOMContentLoaded", () => {
   //set the home page as the default page
-  switchPage("testimonials");
+  switchPage("projects");
 
   //add logic for toggling the menu
   const menu = document.querySelector(".menu");
