@@ -35,11 +35,21 @@ const switchPage = (newPage) => {
   //change the html document title
   const pageTitle = `${newPage.charAt(0).toUpperCase()}${newPage.slice(1)}`;
   document.title = `My Portfolio | ${pageTitle}`;
+
+  //save the current page to local storage
+  localStorage.setItem("lastPage", newPage);
 };
 
 document.addEventListener("DOMContentLoaded", () => {
   //set the home page as the default page
-  switchPage("resume");
+  
+  //resume to the last page visited
+  const lastPage = localStorage.getItem("lastPage");
+  if (lastPage) {
+    switchPage(lastPage);
+  } else {
+    switchPage("home");
+  }
 
   //add logic for toggling the menu
   const menu = document.querySelector(".menu");
