@@ -412,8 +412,9 @@ header {
     display: flex;
     justify-content: space-between;
     /* align-items: center; */
-    padding: 4rem 3rem;
+    padding: 1rem 3rem;
     width: 100%;
+    margin-top: 5rem;
 }
 
 .resume-edu-heading{
@@ -440,9 +441,9 @@ header {
     flex-flow: column nowrap;
     justify-content: center;
     align-items: center;
-    gap: 1rem;
+    gap: 2rem;
     border-radius: 4px;
-    flex: 1;
+    flex: 0.7;
 }
 
 .resume-edu-details h2{
@@ -451,7 +452,6 @@ header {
 }
 
 .resume-edu-card-desc-text{
-    width: 600px;
     max-width: 100%;
 }
 
@@ -651,6 +651,6 @@ header {
         flex-flow: column nowrap;
         text-align: center;
         width: 80%;
-        margin: 0 auto;
+        margin: 4rem auto;
     }
 }
