@@ -1,0 +1,148 @@
+{
+    "main": {
+        "name": "Jiku Godwill Nsanwi",
+        "occupation": "Frontend ReactJS Developer",
+        "description": "I Love Programming, I am moved by technology, creativity and I love to create things with technology tools and my skillset",
+        "image": "./assets/1678993786363.jpeg",
+        "bio": "I'm a Results-driven Software Developer with more than 2 years on average of experience in Problem solving, Algorithms, Computer Programming, Networking, Web Development and Graphic design. Passionate about technology and loves teaching others what I know, learning new technology stacks and working with a team. Strong levels of creativity and attention to deta",
+        "email": "jikugodwill@yahoo.com",
+        "phone": "+237682432376",
+        "address": {
+            "street": "Carrefour Obili",
+            "city": "Yaoundé",
+            "country": "Cameroon"
+        },
+        "resumedownload": "https://my.indeed.com/p/jikugodwilln-ewsce17/pdf",
+        "social":[
+            {
+                "name": "linkedin",
+                "url": "https://www.linkedin.com/in/jiku-godwill-08b006197/",
+                "className": "fa fa-linkedin"
+            }
+        ]
+    },
+    "projects":[
+        {
+            "title": "GenaDrop",
+            "description": "A no-code, multi-chain nft creator + marketplace on Algorand, Celo, Aurora, Polygon, Avalanche, Arbitrum, & NEAR,",
+            "image": "./assets/projects/dev/genadrop.png",
+            "liveLink": "https://genadrop.io",
+            "githubLink": "https://github.com/codingshot/genadrop",
+            "technologies": [
+                "ReactJS",
+                "Solidity",
+                "SASS",
+                "Firebase"
+            ]
+        },
+        {
+            "title": "E-commerce Shoe Site",
+            "description": "A fictional simple e-commerce site for shoes.",
+            "image": "./assets/projects/dev/shoe-site.png",
+            "liveLink": "https://jikugodwill.github.io/e-commerce-shoe-site/",
+            "githubLink": "https://github.com/Jikugodwill/e-commerce-shoe-site",
+            "technologies": [
+                "HTML",
+                "CSS",
+                "JavaScript"
+            ]
+        },
+        {
+            "title": "Momentum Clone",
+            "description": "A very responsive clone of the momentum browser extension, havin its functionalities as well!",
+            "image": "./assets/projects/dev/momentum-clone.png",
+            "liveLink": "https://jikugodwill.github.io/monentum-clone/",
+            "githubLink": "https://github.com/Jikugodwill/monentum-clone",
+            "technologies": [
+                "HTML",
+                "CSS",
+                "JavaScript"
+            ]
+        }
+    ],
+    "resume": {
+        "education":[
+            {
+                "degree": "BTech. Software Engineering",
+                "institution": "Siantou University Insititute",
+                "yeargradruated": 2023,
+                "description": "I am currently a student at Siantou University Institute, Yaounde - Cameroon  studying Computer Science. I am in my final year and I am expected to graduate in 2023."
+            },
+            {
+                "degree": "HND in Software Engineering",
+                "institution":"Siantou University Insititute",
+                "yeargradruated": 2022,
+                "description": ""
+            }
+        ],
+        "work":[
+
+        ],
+        "technologies":[
+            {
+                "name": "Frontend",
+                "icon": "",
+                "techs" : [
+                    "ReactJS", 
+                    "HTML", 
+                    "CSS", 
+                    "JavaScript", 
+                    "Bootstrap", 
+                    "React Bootstrap", 
+                    "React Native", 
+                    "Redux", 
+                    "NextJS",
+                    "GatsbyJS",
+                    "Styled Components",
+                    "React Router",
+                    "React Context",
+                    "Jest",
+                    "Enzyme",
+                    "SASS",
+                    "Modular CSS",
+                    "Responsive Design",
+                    "Adobe XD",
+                    "Figma",
+                    "Canva",
+                    "Adobe Express"
+                ]
+            },
+            {
+                "name": "Backend",
+                "icon": "",
+                "techs": [
+                    "Node.js",
+                    "Django",
+                    "PHP",
+                    "Express",
+                    "Spring Boot",
+                    "Firebase cloud functions"
+                ]
+            },
+            {
+                "name": "Databases",
+                "icon": "",
+                "techs": [
+                    "SQL",
+                    "MongoDB",
+                    "MySQL",
+                    "MS Access",
+                    "Firebase Realtime Database",
+                    "Firebase Firestore"
+                ]
+            },
+            {
+                "name": "Graphics",
+                "icon": "",
+                "techs": [
+                    "Adobe Photoshop",
+                    "Adobe Illustrator",
+                    "Adobe XD",
+                    "Figma",
+                    "Canva",
+                    "Adobe Express"
+                ]
+            }
+        ]
+    }
+}
